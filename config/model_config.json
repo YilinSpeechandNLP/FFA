@@ -1,0 +1,9 @@
+{
+    "FFA": {
+        "input_dim": [1024, 768],
+        "ffn_embed_dim": [512, 256],
+        "num_layers": [5,3,2],
+        "num_heads": 8,
+        "num_classes": 2
+    }
+}

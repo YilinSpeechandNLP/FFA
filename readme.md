@@ -15,3 +15,14 @@ dataset：
 ```
 sh run.sh
 ``
+
+Citation
+
+@article{shao2025modality,
+  title={Modality fusion using auxiliary tasks for dementia detection},
+  author={Shao, Hangshou and Pan, Yilin and Wang, Yue and Zhang, Yijia},
+  journal={Computer Speech \& Language},
+  pages={101814},
+  year={2025},
+  publisher={Elsevier}
+}
